@@ -5,8 +5,8 @@
 
 ## Team Members
 
-🦸
-🦹
+🦸 Cameron Finch
+🦹 Bonnie Chan
 
 ## 🎓 Learning Objectives
 
